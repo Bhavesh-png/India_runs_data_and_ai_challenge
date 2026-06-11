@@ -37,6 +37,15 @@ SmartHire AI is an explainable candidate discovery and ranking system designed f
 
 ## Setup & Run Instructions
 
+### Quick Run Shortcut (Windows)
+For a single-click launch that runs the Python scoring pipeline, the backend server, and the frontend recruiter dashboard altogether, simply run:
+```bash
+run_project.bat
+```
+*(This automatically scores the candidates, opens a new window with the Express backend, and opens a new window with the React Vite development server).*
+
+---
+
 ### 1. Python Environment Setup & Precomputation
 
 To initialize the virtual environment and install dependencies:
