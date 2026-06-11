@@ -122,7 +122,7 @@ Run the following commands in your terminal (make sure you are in the project ro
 git branch -M main
 
 # Add your GitHub repository remote URL
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+git remote add origin https://github.com/Bhavesh-png/<your-repo-name>.git
 
 # Push your code to GitHub
 git push -u origin main
