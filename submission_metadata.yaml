@@ -1,0 +1,45 @@
+team_name: "Team Antigravity"
+
+primary_contact:
+  name: "Bhave"
+  email: "bhave@example.com"
+  phone: "+91-9999999999"
+
+team_members:
+  - name: "Bhave"
+    email: "bhave@example.com"
+    role: "ML Engineer"
+
+github_repo: "https://github.com/bhave/redrob-candidate-ranker"
+
+sandbox_link: "https://huggingface.co/spaces/bhave/redrob-ranker"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+compute:
+  platform: "Local Intel Core i7, 16GB RAM"
+  cpu_cores: 6
+  ram_gb: 16
+  python_version: "3.12.10"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 15
+
+ai_tools_used:
+  - "Gemini"
+  - "Cursor"
+
+ai_usage_summary: |
+  Used Gemini for architectural discussion, debugging, and code generation. Used Cursor as the primary IDE. No candidate data was sent to external LLMs during the execution of the ranker.
+
+methodology_summary: |
+  Hybrid semantic-behavioral ranker. Precomputed embeddings for the 100k candidate pool using a local Sentence-Transformers model. The online ranking computes cosine similarity between candidate embeddings and the JD, then applies structured checks: target experience curves, recruiter response rate activity, notice period, location compatibility, and job market availability multipliers. Incorporates a logical profile validator (honeypots filter) to exclude contradictory profiles. Completes in under 5 seconds on CPU.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

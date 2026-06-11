@@ -1,0 +1,2914 @@
+[
+  {
+    "candidate_id": "CAND_0018499",
+    "rank": 1,
+    "score": 0.901,
+    "reasoning": "Candidate has Ideal experience level (7.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db.",
+    "details": {
+      "score": 0.9009762974739075,
+      "semantic_similarity": 0.5546555519104004,
+      "skill_score": 0.9666666666666666,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.2 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (7.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db."
+    }
+  },
+  {
+    "candidate_id": "CAND_0046525",
+    "rank": 2,
+    "score": 0.86,
+    "reasoning": "Candidate has Ideal experience level (6.1 years); Strong expertise in Embeddings; Strong expertise in Vector Db.",
+    "details": {
+      "score": 0.8600390601992609,
+      "semantic_similarity": 0.5976032614707947,
+      "skill_score": 0.8785714285714287,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.1 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Evaluation"
+      ],
+      "weaknesses": [],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (6.1 years); Strong expertise in Embeddings; Strong expertise in Vector Db."
+    }
+  },
+  {
+    "candidate_id": "CAND_0064326",
+    "rank": 3,
+    "score": 0.8366,
+    "reasoning": "Candidate has Ideal experience level (7.6 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation.",
+    "details": {
+      "score": 0.8365602642297747,
+      "semantic_similarity": 0.5644809007644653,
+      "skill_score": 0.8125,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.6 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.6 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0045250",
+    "rank": 4,
+    "score": 0.831,
+    "reasoning": "Candidate has Ideal experience level (6.6 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation.",
+    "details": {
+      "score": 0.8310349478125574,
+      "semantic_similarity": 0.5997979044914246,
+      "skill_score": 0.8125,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.6 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.6 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0068811",
+    "rank": 5,
+    "score": 0.7865,
+    "reasoning": "Candidate has Ideal experience level (8.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation.",
+    "details": {
+      "score": 0.786460890209675,
+      "semantic_similarity": 0.6143375039100647,
+      "skill_score": 0.7374999999999999,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (8.0 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (8.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0052328",
+    "rank": 6,
+    "score": 0.7838,
+    "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 57 days.",
+    "details": {
+      "score": 0.783760950716138,
+      "semantic_similarity": 0.5343471765518188,
+      "skill_score": 0.8333333333333334,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0914750000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.5 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 57 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 57 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0068351",
+    "rank": 7,
+    "score": 0.7764,
+    "reasoning": "Candidate has Ideal experience level (6.4 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Inactive for 46 days.",
+    "details": {
+      "score": 0.7764276368925573,
+      "semantic_similarity": 0.6495144367218018,
+      "skill_score": 0.7125,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0914750000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.4 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Strong expertise in Evaluation"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Inactive for 46 days"
+      ],
+      "missing_skills": [
+        "Embeddings"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.4 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Inactive for 46 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0054123",
+    "rank": 8,
+    "score": 0.768,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Preferred skill: Fine Tuning. Concerns: Slightly junior for a founding team role (4.7 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.7680486932497026,
+      "semantic_similarity": 0.6090800762176514,
+      "skill_score": 0.69375,
+      "experience_multiplier": 0.9400000000000001,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning",
+        "Highly responsive to recruiter messages"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.7 years of exp)",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Preferred skill: Fine Tuning. Concerns: Slightly junior for a founding team role (4.7 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0027691",
+    "rank": 9,
+    "score": 0.7663,
+    "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 57 days.",
+    "details": {
+      "score": 0.7663142663514615,
+      "semantic_similarity": 0.5756842494010925,
+      "skill_score": 0.8111111111111111,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.5 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 57 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 57 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0050454",
+    "rank": 10,
+    "score": 0.7581,
+    "reasoning": "Candidate has Ideal experience level (6.8 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.7580754341900351,
+      "semantic_similarity": 0.6118417978286743,
+      "skill_score": 0.5625,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.2127500000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.8 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.8 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0000031",
+    "rank": 11,
+    "score": 0.7578,
+    "reasoning": "Candidate has Ideal experience level (6.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db.",
+    "details": {
+      "score": 0.7577741498947145,
+      "semantic_similarity": 0.5012288093566895,
+      "skill_score": 0.9571428571428572,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.05,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.0 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (6.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db."
+    }
+  },
+  {
+    "candidate_id": "CAND_0041669",
+    "rank": 12,
+    "score": 0.74,
+    "reasoning": "Candidate has Ideal experience level (8.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Inactive for 51 days.",
+    "details": {
+      "score": 0.739994854040146,
+      "semantic_similarity": 0.5575594902038574,
+      "skill_score": 0.775,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (8.0 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Evaluation"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Inactive for 51 days"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (8.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Inactive for 51 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0006418",
+    "rank": 13,
+    "score": 0.7394,
+    "reasoning": "Candidate has Ideal experience level (5.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 57 days.",
+    "details": {
+      "score": 0.7394301594567301,
+      "semantic_similarity": 0.5566540956497192,
+      "skill_score": 0.775,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.7 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 57 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 57 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0087364",
+    "rank": 14,
+    "score": 0.733,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.9 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.732986047487736,
+      "semantic_similarity": 0.5346733331680298,
+      "skill_score": 0.7285714285714285,
+      "experience_multiplier": 0.9800000000000001,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.9 years of exp)",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.9 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0005649",
+    "rank": 15,
+    "score": 0.7314,
+    "reasoning": "Candidate has Ideal experience level (7.4 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 43 days; Long notice period (90 days).",
+    "details": {
+      "score": 0.7313832992315294,
+      "semantic_similarity": 0.6432626247406006,
+      "skill_score": 1.0,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.8415000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.4 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Inactive for 43 days",
+        "Long notice period (90 days)"
+      ],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (7.4 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 43 days; Long notice period (90 days)."
+    }
+  },
+  {
+    "candidate_id": "CAND_0042029",
+    "rank": 16,
+    "score": 0.7261,
+    "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 44 days.",
+    "details": {
+      "score": 0.7260942193031312,
+      "semantic_similarity": 0.579535722732544,
+      "skill_score": 0.7875,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9900000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.5 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 44 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 44 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0077337",
+    "rank": 17,
+    "score": 0.7205,
+    "reasoning": "Candidate has Ideal experience level (7.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Outside Tier-1 India, willing to relocate.",
+    "details": {
+      "score": 0.7205321455001832,
+      "semantic_similarity": 0.6240717172622681,
+      "skill_score": 1.0,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.8400000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.0 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Outside Tier-1 India, willing to relocate"
+      ],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (7.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Outside Tier-1 India, willing to relocate."
+    }
+  },
+  {
+    "candidate_id": "CAND_0081852",
+    "rank": 18,
+    "score": 0.7191,
+    "reasoning": "Candidate has Ideal experience level (5.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.719125016927719,
+      "semantic_similarity": 0.5668560862541199,
+      "skill_score": 0.625,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.9 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0007009",
+    "rank": 19,
+    "score": 0.7186,
+    "reasoning": "Candidate has Ideal experience level (7.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 69 days.",
+    "details": {
+      "score": 0.7186464008808137,
+      "semantic_similarity": 0.5165085792541504,
+      "skill_score": 0.8333333333333334,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.9 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 69 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 69 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0004402",
+    "rank": 20,
+    "score": 0.7122,
+    "reasoning": "Candidate has Ideal experience level (6.0 years); Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Missing experience with Evaluation.",
+    "details": {
+      "score": 0.7121626152038576,
+      "semantic_similarity": 0.6143760681152344,
+      "skill_score": 0.5333333333333333,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.0 years)",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning",
+        "Preferred skill: Ltr"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.0 years); Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0005260",
+    "rank": 21,
+    "score": 0.709,
+    "reasoning": "Candidate has Ideal experience level (5.2 years); Strong expertise in Embeddings; Strong expertise in Python. Concerns: Missing experience with Vector Db.",
+    "details": {
+      "score": 0.7089622251987459,
+      "semantic_similarity": 0.586844801902771,
+      "skill_score": 0.7125,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.05,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.2 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Python",
+        "Strong expertise in Evaluation"
+      ],
+      "weaknesses": [
+        "Missing experience with Vector Db"
+      ],
+      "missing_skills": [
+        "Vector Db"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.2 years); Strong expertise in Embeddings; Strong expertise in Python. Concerns: Missing experience with Vector Db."
+    }
+  },
+  {
+    "candidate_id": "CAND_0086022",
+    "rank": 22,
+    "score": 0.7084,
+    "reasoning": "Candidate has Ideal experience level (5.3 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 42 days.",
+    "details": {
+      "score": 0.7083545854091644,
+      "semantic_similarity": 0.584179162979126,
+      "skill_score": 0.8125,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9450000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.3 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 42 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.3 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 42 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0020877",
+    "rank": 23,
+    "score": 0.7066,
+    "reasoning": "Candidate has Ideal experience level (5.1 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Inactive for 54 days.",
+    "details": {
+      "score": 0.706606143474579,
+      "semantic_similarity": 0.5717275142669678,
+      "skill_score": 0.75,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9900000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.1 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Strong expertise in Evaluation"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Inactive for 54 days"
+      ],
+      "missing_skills": [
+        "Embeddings"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.1 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Inactive for 54 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0066999",
+    "rank": 24,
+    "score": 0.7031,
+    "reasoning": "Candidate has Ideal experience level (5.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Inactive for 52 days.",
+    "details": {
+      "score": 0.703124209305048,
+      "semantic_similarity": 0.5293958783149719,
+      "skill_score": 0.7285714285714285,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.9 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Evaluation"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Inactive for 52 days"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Inactive for 52 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0087630",
+    "rank": 25,
+    "score": 0.7024,
+    "reasoning": "Candidate has Ideal experience level (7.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.7023541470861436,
+      "semantic_similarity": 0.6323459148406982,
+      "skill_score": 0.6444444444444444,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.2 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation",
+        "Inactive for 72 days"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0083879",
+    "rank": 26,
+    "score": 0.6951,
+    "reasoning": "Candidate has Ideal experience level (7.1 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 40 days.",
+    "details": {
+      "score": 0.6950967263913155,
+      "semantic_similarity": 0.5420061349868774,
+      "skill_score": 0.7625,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.1 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 40 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.1 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 40 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0051004",
+    "rank": 27,
+    "score": 0.692,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.7 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6920243909637931,
+      "semantic_similarity": 0.5482966303825378,
+      "skill_score": 0.7250000000000001,
+      "experience_multiplier": 0.9400000000000001,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.7 years of exp)",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.7 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0081846",
+    "rank": 28,
+    "score": 0.6789,
+    "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Outside Tier-1 India, willing to relocate.",
+    "details": {
+      "score": 0.6788901567459107,
+      "semantic_similarity": 0.6009725332260132,
+      "skill_score": 1.0,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.8400000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.7 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Outside Tier-1 India, willing to relocate"
+      ],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Outside Tier-1 India, willing to relocate."
+    }
+  },
+  {
+    "candidate_id": "CAND_0091899",
+    "rank": 29,
+    "score": 0.6706,
+    "reasoning": "Candidate has Ideal experience level (5.8 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 58 days.",
+    "details": {
+      "score": 0.6705580568517958,
+      "semantic_similarity": 0.5710693597793579,
+      "skill_score": 0.7357142857142858,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9900000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.8 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Evaluation"
+      ],
+      "weaknesses": [
+        "Inactive for 58 days"
+      ],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (5.8 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 58 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0067866",
+    "rank": 30,
+    "score": 0.6656,
+    "reasoning": "Candidate has Ideal experience level (6.4 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6655857822299005,
+      "semantic_similarity": 0.5693878531455994,
+      "skill_score": 0.5,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.4 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.4 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0069638",
+    "rank": 31,
+    "score": 0.6627,
+    "reasoning": "Candidate has Ideal experience level (6.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6627243177890777,
+      "semantic_similarity": 0.5551179647445679,
+      "skill_score": 0.65,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.05,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.2 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0036437",
+    "rank": 32,
+    "score": 0.6556,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Highly responsive to recruiter messages. Concerns: Slightly junior for a founding team role (4.8 years of exp); Missing experience with Python.",
+    "details": {
+      "score": 0.6556124389266967,
+      "semantic_similarity": 0.5884549617767334,
+      "skill_score": 0.5714285714285714,
+      "experience_multiplier": 0.96,
+      "behavioral_multiplier": 1.1025,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Highly responsive to recruiter messages",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.8 years of exp)",
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Highly responsive to recruiter messages. Concerns: Slightly junior for a founding team role (4.8 years of exp); Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0018888",
+    "rank": 33,
+    "score": 0.6502,
+    "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Vector Db; Strong expertise in Evaluation. Concerns: Missing experience with Embeddings; Missing experience with Python.",
+    "details": {
+      "score": 0.6501556438088418,
+      "semantic_similarity": 0.5704987645149231,
+      "skill_score": 0.4,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.5 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Evaluation",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Python"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Vector Db; Strong expertise in Evaluation. Concerns: Missing experience with Embeddings; Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0073504",
+    "rank": 34,
+    "score": 0.6408,
+    "reasoning": "Candidate has Ideal experience level (6.6 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 43 days.",
+    "details": {
+      "score": 0.6407988050198556,
+      "semantic_similarity": 0.5282007455825806,
+      "skill_score": 0.6285714285714287,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.6 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 43 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.6 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 43 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0064270",
+    "rank": 35,
+    "score": 0.6406,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.2 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6406060118982795,
+      "semantic_similarity": 0.5908403992652893,
+      "skill_score": 0.8333333333333334,
+      "experience_multiplier": 0.8400000000000001,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.2 years of exp)",
+        "Missing experience with Evaluation",
+        "Inactive for 68 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.2 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0054394",
+    "rank": 36,
+    "score": 0.6363,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.1 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6362746974353792,
+      "semantic_similarity": 0.5761609077453613,
+      "skill_score": 0.7625,
+      "experience_multiplier": 0.82,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.1 years of exp)",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.1 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0092255",
+    "rank": 37,
+    "score": 0.6315,
+    "reasoning": "Candidate has Ideal experience level (5.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Moderate recruiter response rate (38%).",
+    "details": {
+      "score": 0.6315452411532403,
+      "semantic_similarity": 0.5676385760307312,
+      "skill_score": 0.65,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.935,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.2 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Moderate recruiter response rate (38%)"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Moderate recruiter response rate (38%)."
+    }
+  },
+  {
+    "candidate_id": "CAND_0017722",
+    "rank": 38,
+    "score": 0.6307,
+    "reasoning": "Candidate has Ideal experience level (5.7 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings.",
+    "details": {
+      "score": 0.6307206514222281,
+      "semantic_similarity": 0.5471957921981812,
+      "skill_score": 0.4535714285714286,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.7 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings"
+      ],
+      "missing_skills": [
+        "Embeddings"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.7 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings."
+    }
+  },
+  {
+    "candidate_id": "CAND_0082086",
+    "rank": 39,
+    "score": 0.6258,
+    "reasoning": "Candidate has Ideal experience level (6.0 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6257915694832803,
+      "semantic_similarity": 0.5478413701057434,
+      "skill_score": 0.38125000000000003,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.0 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.0 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0043637",
+    "rank": 40,
+    "score": 0.6179,
+    "reasoning": "Candidate has Ideal experience level (5.5 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.617923391588529,
+      "semantic_similarity": 0.5487591028213501,
+      "skill_score": 0.4277777777777778,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.5 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.5 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0066690",
+    "rank": 41,
+    "score": 0.6168,
+    "reasoning": "Candidate has Strong expertise in Python; Preferred skill: Fine Tuning; Highly responsive to recruiter messages. Concerns: Slightly junior for a founding team role (4.8 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6168254809516909,
+      "semantic_similarity": 0.552142858505249,
+      "skill_score": 0.4104166666666667,
+      "experience_multiplier": 0.96,
+      "behavioral_multiplier": 1.2127500000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning",
+        "Highly responsive to recruiter messages",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.8 years of exp)",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Python; Preferred skill: Fine Tuning; Highly responsive to recruiter messages. Concerns: Slightly junior for a founding team role (4.8 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0072688",
+    "rank": 42,
+    "score": 0.6165,
+    "reasoning": "Candidate has Ideal experience level (6.9 years); Strong expertise in Vector Db; Preferred skill: Fine Tuning. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6164820875167848,
+      "semantic_similarity": 0.5735311508178711,
+      "skill_score": 0.3875,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.9 years)",
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning",
+        "Highly responsive to recruiter messages"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.9 years); Strong expertise in Vector Db; Preferred skill: Fine Tuning. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0091909",
+    "rank": 43,
+    "score": 0.6156,
+    "reasoning": "Candidate has Ideal experience level (6.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 70 days.",
+    "details": {
+      "score": 0.6155803890228272,
+      "semantic_similarity": 0.525148868560791,
+      "skill_score": 0.8111111111111111,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.9 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 70 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 70 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0039587",
+    "rank": 44,
+    "score": 0.6115,
+    "reasoning": "Candidate has Ideal experience level (6.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6115117795467377,
+      "semantic_similarity": 0.5547806024551392,
+      "skill_score": 0.4571428571428572,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.05,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.2 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.2 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0048558",
+    "rank": 45,
+    "score": 0.6111,
+    "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Vector Db; Highly responsive to recruiter messages. Concerns: Missing experience with Embeddings; Missing experience with Python.",
+    "details": {
+      "score": 0.611086291639805,
+      "semantic_similarity": 0.5759079456329346,
+      "skill_score": 0.31339285714285714,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.2127500000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.7 years)",
+        "Strong expertise in Vector Db",
+        "Highly responsive to recruiter messages",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Python"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Vector Db; Highly responsive to recruiter messages. Concerns: Missing experience with Embeddings; Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0093763",
+    "rank": 46,
+    "score": 0.6085,
+    "reasoning": "Candidate has Ideal experience level (5.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Long notice period (90 days).",
+    "details": {
+      "score": 0.6084957452708483,
+      "semantic_similarity": 0.5460584759712219,
+      "skill_score": 0.6285714285714287,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.98175,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.0 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Long notice period (90 days)"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Long notice period (90 days)."
+    }
+  },
+  {
+    "candidate_id": "CAND_0041610",
+    "rank": 47,
+    "score": 0.6076,
+    "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Outside Tier-1 India, willing to relocate.",
+    "details": {
+      "score": 0.6076304746627808,
+      "semantic_similarity": 0.555616021156311,
+      "skill_score": 0.7666666666666666,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.8400000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.7 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Outside Tier-1 India, willing to relocate"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Outside Tier-1 India, willing to relocate."
+    }
+  },
+  {
+    "candidate_id": "CAND_0061257",
+    "rank": 48,
+    "score": 0.6056,
+    "reasoning": "Candidate has Ideal experience level (8.0 years); Strong expertise in Python; Strong expertise in Evaluation. Concerns: Missing experience with Embeddings; Missing experience with Vector Db.",
+    "details": {
+      "score": 0.6056061488035324,
+      "semantic_similarity": 0.5720058083534241,
+      "skill_score": 0.4375,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0914750000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (8.0 years)",
+        "Strong expertise in Python",
+        "Strong expertise in Evaluation",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Vector Db",
+        "Inactive for 41 days"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Vector Db"
+      ],
+      "reasoning": "Candidate has Ideal experience level (8.0 years); Strong expertise in Python; Strong expertise in Evaluation. Concerns: Missing experience with Embeddings; Missing experience with Vector Db."
+    }
+  },
+  {
+    "candidate_id": "CAND_0008295",
+    "rank": 49,
+    "score": 0.6014,
+    "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Missing experience with Embeddings; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.6014258943200113,
+      "semantic_similarity": 0.5307372212409973,
+      "skill_score": 0.3541666666666667,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.5 years)",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning",
+        "Highly responsive to recruiter messages"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Missing experience with Embeddings; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0020954",
+    "rank": 50,
+    "score": 0.6009,
+    "reasoning": "Candidate has Ideal experience level (7.1 years); Strong expertise in Embeddings; Strong expertise in Python. Concerns: Missing experience with Evaluation; Long notice period (90 days).",
+    "details": {
+      "score": 0.6009445494504202,
+      "semantic_similarity": 0.5718220472335815,
+      "skill_score": 0.5619047619047619,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.935,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.1 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Python",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Long notice period (90 days)"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.1 years); Strong expertise in Embeddings; Strong expertise in Python. Concerns: Missing experience with Evaluation; Long notice period (90 days)."
+    }
+  },
+  {
+    "candidate_id": "CAND_0058688",
+    "rank": 51,
+    "score": 0.5982,
+    "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 60 days; Outside Tier-1 India, willing to relocate.",
+    "details": {
+      "score": 0.5981593451881411,
+      "semantic_similarity": 0.5805100202560425,
+      "skill_score": 0.975,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.7560000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.7 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Inactive for 60 days",
+        "Outside Tier-1 India, willing to relocate"
+      ],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 60 days; Outside Tier-1 India, willing to relocate."
+    }
+  },
+  {
+    "candidate_id": "CAND_0073982",
+    "rank": 52,
+    "score": 0.5981,
+    "reasoning": "Candidate has Ideal experience level (7.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5980559571584066,
+      "semantic_similarity": 0.5017104148864746,
+      "skill_score": 0.5611979166666667,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.0 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0049085",
+    "rank": 53,
+    "score": 0.5957,
+    "reasoning": "Candidate has Quick joiner (30 days notice); Based in target location (Noida/Pune/Delhi NCR). Concerns: Slightly junior for a founding team role (4.9 years of exp); Missing experience with Python.",
+    "details": {
+      "score": 0.595734595955849,
+      "semantic_similarity": 0.5810739994049072,
+      "skill_score": 0.4,
+      "experience_multiplier": 0.9800000000000001,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Quick joiner (30 days notice)",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.9 years of exp)",
+        "Missing experience with Python"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Quick joiner (30 days notice); Based in target location (Noida/Pune/Delhi NCR). Concerns: Slightly junior for a founding team role (4.9 years of exp); Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0037566",
+    "rank": 54,
+    "score": 0.5947,
+    "reasoning": "Candidate has Ideal experience level (6.9 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5947004249691963,
+      "semantic_similarity": 0.5503975749015808,
+      "skill_score": 0.5625,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9450000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.9 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation",
+        "Inactive for 37 days"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.9 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0075574",
+    "rank": 55,
+    "score": 0.5895,
+    "reasoning": "Candidate has Ideal experience level (5.7 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5894613647460938,
+      "semantic_similarity": 0.5824356079101562,
+      "skill_score": 0.5,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.7 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Tier-1 India candidate willing to relocate"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.7 years); Strong expertise in Vector Db; Strong expertise in Python. Concerns: Missing experience with Embeddings; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0043860",
+    "rank": 56,
+    "score": 0.5885,
+    "reasoning": "Candidate has Ideal experience level (6.1 years); Strong expertise in Embeddings; Strong expertise in Evaluation. Concerns: Outside Tier-1 India, willing to relocate.",
+    "details": {
+      "score": 0.5884536780548097,
+      "semantic_similarity": 0.6030492782592773,
+      "skill_score": 0.6500000000000001,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.8820000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.1 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Evaluation",
+        "Highly responsive to recruiter messages"
+      ],
+      "weaknesses": [
+        "Outside Tier-1 India, willing to relocate"
+      ],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (6.1 years); Strong expertise in Embeddings; Strong expertise in Evaluation. Concerns: Outside Tier-1 India, willing to relocate."
+    }
+  },
+  {
+    "candidate_id": "CAND_0007596",
+    "rank": 57,
+    "score": 0.5881,
+    "reasoning": "Candidate has Strong expertise in Vector Db; Preferred skill: Fine Tuning; Highly responsive to recruiter messages. Concerns: Slightly junior for a founding team role (4.4 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.588076686429024,
+      "semantic_similarity": 0.576499879360199,
+      "skill_score": 0.4833333333333334,
+      "experience_multiplier": 0.8800000000000001,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning",
+        "Highly responsive to recruiter messages",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.4 years of exp)",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Vector Db; Preferred skill: Fine Tuning; Highly responsive to recruiter messages. Concerns: Slightly junior for a founding team role (4.4 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0054194",
+    "rank": 58,
+    "score": 0.5865,
+    "reasoning": "Candidate has Ideal experience level (7.6 years); Preferred skill: Fine Tuning; Quick joiner (30 days notice). Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5865250699281694,
+      "semantic_similarity": 0.6025253534317017,
+      "skill_score": 0.2791666666666667,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.6 years)",
+        "Preferred skill: Fine Tuning",
+        "Quick joiner (30 days notice)",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.6 years); Preferred skill: Fine Tuning; Quick joiner (30 days notice). Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0030348",
+    "rank": 59,
+    "score": 0.5833,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.5 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5833113615809169,
+      "semantic_similarity": 0.5686760544776917,
+      "skill_score": 0.6714285714285715,
+      "experience_multiplier": 0.9,
+      "behavioral_multiplier": 0.9900000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.5 years of exp)",
+        "Missing experience with Evaluation",
+        "Inactive for 58 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Slightly junior for a founding team role (4.5 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0015578",
+    "rank": 60,
+    "score": 0.5818,
+    "reasoning": "Candidate has Ideal experience level (5.4 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 56 days.",
+    "details": {
+      "score": 0.5817783898496629,
+      "semantic_similarity": 0.5563743114471436,
+      "skill_score": 0.775,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.8415000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.4 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 56 days",
+        "Long notice period (90 days)"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.4 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 56 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0046459",
+    "rank": 61,
+    "score": 0.581,
+    "reasoning": "Candidate has Strong expertise in Vector Db; Highly responsive to recruiter messages; Quick joiner (30 days notice). Concerns: Slightly junior for a founding team role (4.5 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5809774242584885,
+      "semantic_similarity": 0.5749925971031189,
+      "skill_score": 0.5142857142857143,
+      "experience_multiplier": 0.9,
+      "behavioral_multiplier": 1.0914750000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Vector Db",
+        "Highly responsive to recruiter messages",
+        "Quick joiner (30 days notice)",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.5 years of exp)",
+        "Missing experience with Evaluation",
+        "Inactive for 48 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Vector Db; Highly responsive to recruiter messages; Quick joiner (30 days notice). Concerns: Slightly junior for a founding team role (4.5 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0007052",
+    "rank": 62,
+    "score": 0.5804,
+    "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5804218728113175,
+      "semantic_similarity": 0.5617153644561768,
+      "skill_score": 0.4571428571428572,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.5 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Highly responsive to recruiter messages"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation",
+        "Inactive for 79 days"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0062247",
+    "rank": 63,
+    "score": 0.5793,
+    "reasoning": "Candidate has Ideal experience level (7.3 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Inactive for 34 days.",
+    "details": {
+      "score": 0.5793126357359888,
+      "semantic_similarity": 0.5952814221382141,
+      "skill_score": 0.7111111111111111,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.7938000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.3 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Evaluation"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Inactive for 34 days",
+        "Outside Tier-1 India, willing to relocate"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.3 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Inactive for 34 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0073314",
+    "rank": 64,
+    "score": 0.5791,
+    "reasoning": "Candidate has Ideal experience level (5.2 years); Preferred skill: Fine Tuning; Highly responsive to recruiter messages. Concerns: Missing experience with Embeddings; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5790918520212174,
+      "semantic_similarity": 0.558578610420227,
+      "skill_score": 0.2640625,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.2 years)",
+        "Preferred skill: Fine Tuning",
+        "Highly responsive to recruiter messages",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.2 years); Preferred skill: Fine Tuning; Highly responsive to recruiter messages. Concerns: Missing experience with Embeddings; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0059839",
+    "rank": 65,
+    "score": 0.5789,
+    "reasoning": "Candidate has Strong experienced background (9.5 years); Preferred skill: Fine Tuning; Highly responsive to recruiter messages. Concerns: Missing experience with Python; Inactive for 38 days.",
+    "details": {
+      "score": 0.578904370272252,
+      "semantic_similarity": 0.6447664499282837,
+      "skill_score": 0.3458333333333333,
+      "experience_multiplier": 0.975,
+      "behavioral_multiplier": 1.0914750000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong experienced background (9.5 years)",
+        "Preferred skill: Fine Tuning",
+        "Highly responsive to recruiter messages",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Inactive for 38 days"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Strong experienced background (9.5 years); Preferred skill: Fine Tuning; Highly responsive to recruiter messages. Concerns: Missing experience with Python; Inactive for 38 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0070496",
+    "rank": 66,
+    "score": 0.5785,
+    "reasoning": "Candidate has Ideal experience level (6.0 years); Strong expertise in Vector Db; Strong expertise in Evaluation. Concerns: Missing experience with Embeddings; Missing experience with Python.",
+    "details": {
+      "score": 0.5785129318237305,
+      "semantic_similarity": 0.5795650482177734,
+      "skill_score": 0.4,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.0 years)",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Evaluation",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Python"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.0 years); Strong expertise in Vector Db; Strong expertise in Evaluation. Concerns: Missing experience with Embeddings; Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0003977",
+    "rank": 67,
+    "score": 0.5757,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Python; Preferred skill: Ltr. Concerns: Slightly junior for a founding team role (4.6 years of exp); Missing experience with Vector Db.",
+    "details": {
+      "score": 0.5757153057527542,
+      "semantic_similarity": 0.550404965877533,
+      "skill_score": 0.5625,
+      "experience_multiplier": 0.9199999999999999,
+      "behavioral_multiplier": 0.9900000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Python",
+        "Preferred skill: Ltr",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.6 years of exp)",
+        "Missing experience with Vector Db",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Vector Db",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Python; Preferred skill: Ltr. Concerns: Slightly junior for a founding team role (4.6 years of exp); Missing experience with Vector Db."
+    }
+  },
+  {
+    "candidate_id": "CAND_0024620",
+    "rank": 68,
+    "score": 0.5757,
+    "reasoning": "Candidate has Ideal experience level (5.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 45 days; Outside Tier-1 India, willing to relocate.",
+    "details": {
+      "score": 0.5757012763977052,
+      "semantic_similarity": 0.6067159175872803,
+      "skill_score": 0.95,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.7200000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.9 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Inactive for 45 days",
+        "Outside Tier-1 India, willing to relocate"
+      ],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (5.9 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 45 days; Outside Tier-1 India, willing to relocate."
+    }
+  },
+  {
+    "candidate_id": "CAND_0040955",
+    "rank": 69,
+    "score": 0.5756,
+    "reasoning": "Candidate has Ideal experience level (6.6 years); Strong expertise in Embeddings; Preferred skill: Fine Tuning. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5756341662049296,
+      "semantic_similarity": 0.5562542080879211,
+      "skill_score": 0.325,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.6 years)",
+        "Strong expertise in Embeddings",
+        "Preferred skill: Fine Tuning",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.6 years); Strong expertise in Embeddings; Preferred skill: Fine Tuning. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0090656",
+    "rank": 70,
+    "score": 0.5742,
+    "reasoning": "Candidate has Ideal experience level (5.1 years); Preferred skill: Fine Tuning; Quick joiner (30 days notice). Concerns: Missing experience with Python; Inactive for 70 days.",
+    "details": {
+      "score": 0.5742000928282738,
+      "semantic_similarity": 0.6134461164474487,
+      "skill_score": 0.36458333333333337,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.1 years)",
+        "Preferred skill: Fine Tuning",
+        "Quick joiner (30 days notice)",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Inactive for 70 days"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.1 years); Preferred skill: Fine Tuning; Quick joiner (30 days notice). Concerns: Missing experience with Python; Inactive for 70 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0085458",
+    "rank": 71,
+    "score": 0.5737,
+    "reasoning": "Candidate has Ideal experience level (7.8 years); Strong expertise in Vector Db; Preferred skill: Fine Tuning. Concerns: Missing experience with Embeddings; Missing experience with Python.",
+    "details": {
+      "score": 0.5737222890853881,
+      "semantic_similarity": 0.5882155895233154,
+      "skill_score": 0.2625,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.8 years)",
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.8 years); Strong expertise in Vector Db; Preferred skill: Fine Tuning. Concerns: Missing experience with Embeddings; Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0099806",
+    "rank": 72,
+    "score": 0.5729,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Preferred skill: Fine Tuning. Concerns: Slightly junior for a founding team role (4.6 years of exp); Missing experience with Python.",
+    "details": {
+      "score": 0.572902378856659,
+      "semantic_similarity": 0.6162755489349365,
+      "skill_score": 0.625,
+      "experience_multiplier": 0.9199999999999999,
+      "behavioral_multiplier": 0.8820000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning",
+        "Highly responsive to recruiter messages"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.6 years of exp)",
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Preferred skill: Fine Tuning. Concerns: Slightly junior for a founding team role (4.6 years of exp); Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0024157",
+    "rank": 73,
+    "score": 0.5711,
+    "reasoning": "Candidate has Ideal experience level (5.5 years); Strong expertise in Embeddings; Preferred skill: Fine Tuning. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5710792758703234,
+      "semantic_similarity": 0.5769011378288269,
+      "skill_score": 0.4,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9900000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.5 years)",
+        "Strong expertise in Embeddings",
+        "Preferred skill: Fine Tuning",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation",
+        "Inactive for 72 days"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.5 years); Strong expertise in Embeddings; Preferred skill: Fine Tuning. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0037980",
+    "rank": 74,
+    "score": 0.5707,
+    "reasoning": "Candidate has Ideal experience level (9.0 years); Strong expertise in Python; Strong expertise in Evaluation. Concerns: Missing experience with Embeddings; Missing experience with Vector Db.",
+    "details": {
+      "score": 0.5706530315876007,
+      "semantic_similarity": 0.602562665939331,
+      "skill_score": 0.5,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9450000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (9.0 years)",
+        "Strong expertise in Python",
+        "Strong expertise in Evaluation",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Vector Db",
+        "Inactive for 60 days"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Vector Db"
+      ],
+      "reasoning": "Candidate has Ideal experience level (9.0 years); Strong expertise in Python; Strong expertise in Evaluation. Concerns: Missing experience with Embeddings; Missing experience with Vector Db."
+    }
+  },
+  {
+    "candidate_id": "CAND_0062751",
+    "rank": 75,
+    "score": 0.5704,
+    "reasoning": "Candidate has Strong experienced background (9.7 years); Preferred skill: Fine Tuning; Quick joiner (30 days notice). Concerns: Missing experience with Python; Inactive for 70 days.",
+    "details": {
+      "score": 0.57042063452667,
+      "semantic_similarity": 0.6312869787216187,
+      "skill_score": 0.375,
+      "experience_multiplier": 0.9650000000000001,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong experienced background (9.7 years)",
+        "Preferred skill: Fine Tuning",
+        "Quick joiner (30 days notice)",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Inactive for 70 days"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Strong experienced background (9.7 years); Preferred skill: Fine Tuning; Quick joiner (30 days notice). Concerns: Missing experience with Python; Inactive for 70 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0058575",
+    "rank": 76,
+    "score": 0.5684,
+    "reasoning": "Candidate has Ideal experience level (5.8 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 52 days.",
+    "details": {
+      "score": 0.5684454071181161,
+      "semantic_similarity": 0.6274876594543457,
+      "skill_score": 0.7857142857142857,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.765,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.8 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 52 days",
+        "Long notice period (90 days)"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.8 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 52 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0053605",
+    "rank": 77,
+    "score": 0.5671,
+    "reasoning": "Candidate has Ideal experience level (6.9 years); Strong expertise in Embeddings; Highly responsive to recruiter messages. Concerns: Missing experience with Vector Db; Missing experience with Python.",
+    "details": {
+      "score": 0.5670837622034551,
+      "semantic_similarity": 0.5719834566116333,
+      "skill_score": 0.2285714285714286,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.2127500000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.9 years)",
+        "Strong expertise in Embeddings",
+        "Highly responsive to recruiter messages",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Missing experience with Vector Db",
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Vector Db",
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.9 years); Strong expertise in Embeddings; Highly responsive to recruiter messages. Concerns: Missing experience with Vector Db; Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0060054",
+    "rank": 78,
+    "score": 0.5668,
+    "reasoning": "Candidate has Ideal experience level (6.4 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 71 days.",
+    "details": {
+      "score": 0.566806123046875,
+      "semantic_similarity": 0.582275390625,
+      "skill_score": 0.7857142857142857,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.7938000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.4 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 71 days",
+        "Outside Tier-1 India, willing to relocate"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.4 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 71 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0015967",
+    "rank": 79,
+    "score": 0.5665,
+    "reasoning": "Candidate has Ideal experience level (5.4 years); Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5664682750701905,
+      "semantic_similarity": 0.569493293762207,
+      "skill_score": 0.446875,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.05,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.4 years)",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.4 years); Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0047327",
+    "rank": 80,
+    "score": 0.5665,
+    "reasoning": "Candidate has Ideal experience level (5.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5665485816796622,
+      "semantic_similarity": 0.4929397702217102,
+      "skill_score": 0.4572916666666667,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.0 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.0 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0049543",
+    "rank": 81,
+    "score": 0.5659,
+    "reasoning": "Candidate has Ideal experience level (6.1 years); Strong expertise in Embeddings; Strong expertise in Evaluation. Concerns: Missing experience with Python; Inactive for 62 days.",
+    "details": {
+      "score": 0.5658873648643494,
+      "semantic_similarity": 0.534976601600647,
+      "skill_score": 0.5750000000000001,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.1 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Evaluation",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Inactive for 62 days"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.1 years); Strong expertise in Embeddings; Strong expertise in Evaluation. Concerns: Missing experience with Python; Inactive for 62 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0002389",
+    "rank": 82,
+    "score": 0.5658,
+    "reasoning": "Candidate has Ideal experience level (5.3 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 73 days.",
+    "details": {
+      "score": 0.5657852669545583,
+      "semantic_similarity": 0.5664494633674622,
+      "skill_score": 0.5285714285714286,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9900000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.3 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 73 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.3 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 73 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0075931",
+    "rank": 83,
+    "score": 0.5655,
+    "reasoning": "Candidate has Ideal experience level (7.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5655248158557076,
+      "semantic_similarity": 0.6320024728775024,
+      "skill_score": 0.4571428571428572,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.935,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.5 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation",
+        "Long notice period (90 days)"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.5 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0006567",
+    "rank": 84,
+    "score": 0.5652,
+    "reasoning": "Candidate has Ideal experience level (7.9 years); Strong expertise in Python; Highly responsive to recruiter messages. Concerns: Missing experience with Embeddings; Missing experience with Vector Db.",
+    "details": {
+      "score": 0.5652135530114175,
+      "semantic_similarity": 0.6150267720222473,
+      "skill_score": 0.21428571428571427,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.9 years)",
+        "Strong expertise in Python",
+        "Highly responsive to recruiter messages",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Vector Db",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Vector Db",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.9 years); Strong expertise in Python; Highly responsive to recruiter messages. Concerns: Missing experience with Embeddings; Missing experience with Vector Db."
+    }
+  },
+  {
+    "candidate_id": "CAND_0076952",
+    "rank": 85,
+    "score": 0.5647,
+    "reasoning": "Candidate has Ideal experience level (6.2 years); Quick joiner (30 days notice); Based in target location (Noida/Pune/Delhi NCR). Concerns: Missing experience with Python; Moderate recruiter response rate (11%).",
+    "details": {
+      "score": 0.5647031376641989,
+      "semantic_similarity": 0.6336187720298767,
+      "skill_score": 0.38571428571428573,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.98175,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.2 years)",
+        "Quick joiner (30 days notice)",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Moderate recruiter response rate (11%)"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.2 years); Quick joiner (30 days notice); Based in target location (Noida/Pune/Delhi NCR). Concerns: Missing experience with Python; Moderate recruiter response rate (11%)."
+    }
+  },
+  {
+    "candidate_id": "CAND_0039070",
+    "rank": 86,
+    "score": 0.5643,
+    "reasoning": "Candidate has Ideal experience level (6.6 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5643302803022522,
+      "semantic_similarity": 0.5763972401618958,
+      "skill_score": 0.4571428571428572,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.935,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.6 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation",
+        "Moderate recruiter response rate (24%)"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.6 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0074486",
+    "rank": 87,
+    "score": 0.5643,
+    "reasoning": "Candidate has Ideal experience level (5.5 years); Strong expertise in Vector Db; Highly responsive to recruiter messages. Concerns: Missing experience with Embeddings; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.564274490746975,
+      "semantic_similarity": 0.5309405326843262,
+      "skill_score": 0.33571428571428574,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0914750000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.5 years)",
+        "Strong expertise in Vector Db",
+        "Highly responsive to recruiter messages",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation",
+        "Inactive for 56 days"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.5 years); Strong expertise in Vector Db; Highly responsive to recruiter messages. Concerns: Missing experience with Embeddings; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0052195",
+    "rank": 88,
+    "score": 0.5624,
+    "reasoning": "Candidate has Ideal experience level (6.3 years); Strong expertise in Embeddings; Strong expertise in Evaluation. Concerns: Missing experience with Vector Db; Missing experience with Python.",
+    "details": {
+      "score": 0.5624444634914398,
+      "semantic_similarity": 0.5274912118911743,
+      "skill_score": 0.38125000000000003,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.05,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.3 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Evaluation",
+        "Preferred skill: Fine Tuning"
+      ],
+      "weaknesses": [
+        "Missing experience with Vector Db",
+        "Missing experience with Python"
+      ],
+      "missing_skills": [
+        "Vector Db",
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.3 years); Strong expertise in Embeddings; Strong expertise in Evaluation. Concerns: Missing experience with Vector Db; Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0061985",
+    "rank": 89,
+    "score": 0.5614,
+    "reasoning": "Candidate has Ideal experience level (6.4 years); Preferred skill: Fine Tuning; Tier-1 India candidate willing to relocate. Concerns: Missing experience with Python.",
+    "details": {
+      "score": 0.5613969739278157,
+      "semantic_similarity": 0.6238560676574707,
+      "skill_score": 0.36770833333333336,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.4 years)",
+        "Preferred skill: Fine Tuning",
+        "Tier-1 India candidate willing to relocate"
+      ],
+      "weaknesses": [
+        "Missing experience with Python"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.4 years); Preferred skill: Fine Tuning; Tier-1 India candidate willing to relocate. Concerns: Missing experience with Python."
+    }
+  },
+  {
+    "candidate_id": "CAND_0009837",
+    "rank": 90,
+    "score": 0.5613,
+    "reasoning": "Candidate has Strong expertise in Vector Db; Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Slightly junior for a founding team role (4.3 years of exp); Missing experience with Embeddings.",
+    "details": {
+      "score": 0.5613442283678055,
+      "semantic_similarity": 0.5935796499252319,
+      "skill_score": 0.6111111111111112,
+      "experience_multiplier": 0.86,
+      "behavioral_multiplier": 0.9900000000000001,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning",
+        "Preferred skill: Ltr"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.3 years of exp)",
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Vector Db; Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Slightly junior for a founding team role (4.3 years of exp); Missing experience with Embeddings."
+    }
+  },
+  {
+    "candidate_id": "CAND_0037000",
+    "rank": 91,
+    "score": 0.56,
+    "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Junior candidate (2.7 years of exp); Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5599723508450987,
+      "semantic_similarity": 0.598127007484436,
+      "skill_score": 0.6857142857142858,
+      "experience_multiplier": 0.67,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Quick joiner (15 days notice)"
+      ],
+      "weaknesses": [
+        "Junior candidate (2.7 years of exp)",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Embeddings; Strong expertise in Vector Db; Strong expertise in Python. Concerns: Junior candidate (2.7 years of exp); Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0017590",
+    "rank": 92,
+    "score": 0.5595,
+    "reasoning": "Candidate has Ideal experience level (5.1 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 55 days.",
+    "details": {
+      "score": 0.5595045343807767,
+      "semantic_similarity": 0.5800348520278931,
+      "skill_score": 0.6285714285714287,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.9,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.1 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Missing experience with Evaluation",
+        "Inactive for 55 days"
+      ],
+      "missing_skills": [
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.1 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Evaluation; Inactive for 55 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0045475",
+    "rank": 93,
+    "score": 0.5593,
+    "reasoning": "Candidate has Strong expertise in Vector Db; Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Slightly junior for a founding team role (4.9 years of exp); Missing experience with Embeddings.",
+    "details": {
+      "score": 0.5593474128150941,
+      "semantic_similarity": 0.5029489994049072,
+      "skill_score": 0.45000000000000007,
+      "experience_multiplier": 0.9800000000000001,
+      "behavioral_multiplier": 1.1,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Slightly junior for a founding team role (4.9 years of exp)",
+        "Missing experience with Embeddings",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Embeddings",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Strong expertise in Vector Db; Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Slightly junior for a founding team role (4.9 years of exp); Missing experience with Embeddings."
+    }
+  },
+  {
+    "candidate_id": "CAND_0024216",
+    "rank": 94,
+    "score": 0.5587,
+    "reasoning": "Candidate has Ideal experience level (7.1 years); Preferred skill: Fine Tuning; Based in target location (Noida/Pune/Delhi NCR). Concerns: Missing experience with Python; Moderate recruiter response rate (18%).",
+    "details": {
+      "score": 0.5587290119886399,
+      "semantic_similarity": 0.6371506452560425,
+      "skill_score": 0.43125,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.935,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.1 years)",
+        "Preferred skill: Fine Tuning",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Moderate recruiter response rate (18%)"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.1 years); Preferred skill: Fine Tuning; Based in target location (Noida/Pune/Delhi NCR). Concerns: Missing experience with Python; Moderate recruiter response rate (18%)."
+    }
+  },
+  {
+    "candidate_id": "CAND_0010685",
+    "rank": 95,
+    "score": 0.5579,
+    "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 72 days; Tier-1 India candidate unwilling to relocate.",
+    "details": {
+      "score": 0.5579334090003372,
+      "semantic_similarity": 0.5761398673057556,
+      "skill_score": 1.0,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 0.694575,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.7 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Strong expertise in Python"
+      ],
+      "weaknesses": [
+        "Inactive for 72 days",
+        "Tier-1 India candidate unwilling to relocate"
+      ],
+      "missing_skills": [],
+      "reasoning": "Candidate has Ideal experience level (6.7 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Inactive for 72 days; Tier-1 India candidate unwilling to relocate."
+    }
+  },
+  {
+    "candidate_id": "CAND_0001450",
+    "rank": 96,
+    "score": 0.5578,
+    "reasoning": "Candidate has Strong experienced background (9.6 years); Preferred skill: Fine Tuning; Quick joiner (30 days notice). Concerns: Missing experience with Python; Inactive for 80 days.",
+    "details": {
+      "score": 0.5577982639018417,
+      "semantic_similarity": 0.6018874049186707,
+      "skill_score": 0.3809895833333334,
+      "experience_multiplier": 0.97,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Strong experienced background (9.6 years)",
+        "Preferred skill: Fine Tuning",
+        "Quick joiner (30 days notice)",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Inactive for 80 days"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Strong experienced background (9.6 years); Preferred skill: Fine Tuning; Quick joiner (30 days notice). Concerns: Missing experience with Python; Inactive for 80 days."
+    }
+  },
+  {
+    "candidate_id": "CAND_0077798",
+    "rank": 97,
+    "score": 0.5572,
+    "reasoning": "Candidate has Ideal experience level (8.0 years); Strong expertise in Vector Db; Tier-1 India candidate willing to relocate. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5572164897691636,
+      "semantic_similarity": 0.5826624035835266,
+      "skill_score": 0.41904761904761906,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (8.0 years)",
+        "Strong expertise in Vector Db",
+        "Tier-1 India candidate willing to relocate"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (8.0 years); Strong expertise in Vector Db; Tier-1 India candidate willing to relocate. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0091745",
+    "rank": 98,
+    "score": 0.5565,
+    "reasoning": "Candidate has Ideal experience level (5.9 years); Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Missing experience with Vector Db; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5565242824554445,
+      "semantic_similarity": 0.5589275360107422,
+      "skill_score": 0.32291666666666674,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1550000000000002,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (5.9 years)",
+        "Strong expertise in Python",
+        "Preferred skill: Fine Tuning",
+        "Quick joiner (30 days notice)"
+      ],
+      "weaknesses": [
+        "Missing experience with Vector Db",
+        "Missing experience with Evaluation"
+      ],
+      "missing_skills": [
+        "Vector Db",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (5.9 years); Strong expertise in Python; Preferred skill: Fine Tuning. Concerns: Missing experience with Vector Db; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0096916",
+    "rank": 99,
+    "score": 0.5565,
+    "reasoning": "Candidate has Ideal experience level (6.3 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation.",
+    "details": {
+      "score": 0.5565494583296776,
+      "semantic_similarity": 0.5555065870285034,
+      "skill_score": 0.4571428571428572,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.0395,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (6.3 years)",
+        "Strong expertise in Embeddings",
+        "Strong expertise in Vector Db",
+        "Highly responsive to recruiter messages"
+      ],
+      "weaknesses": [
+        "Missing experience with Python",
+        "Missing experience with Evaluation",
+        "Inactive for 70 days"
+      ],
+      "missing_skills": [
+        "Python",
+        "Evaluation"
+      ],
+      "reasoning": "Candidate has Ideal experience level (6.3 years); Strong expertise in Embeddings; Strong expertise in Vector Db. Concerns: Missing experience with Python; Missing experience with Evaluation."
+    }
+  },
+  {
+    "candidate_id": "CAND_0049120",
+    "rank": 100,
+    "score": 0.5551,
+    "reasoning": "Candidate has Ideal experience level (7.4 years); Preferred skill: Fine Tuning; Based in target location (Noida/Pune/Delhi NCR). Concerns: Missing experience with Python.",
+    "details": {
+      "score": 0.5551006417274477,
+      "semantic_similarity": 0.5585805177688599,
+      "skill_score": 0.3328125,
+      "experience_multiplier": 1.0,
+      "behavioral_multiplier": 1.1,
+      "honeypot": false,
+      "disqualified": false,
+      "strengths": [
+        "Ideal experience level (7.4 years)",
+        "Preferred skill: Fine Tuning",
+        "Based in target location (Noida/Pune/Delhi NCR)"
+      ],
+      "weaknesses": [
+        "Missing experience with Python"
+      ],
+      "missing_skills": [
+        "Python"
+      ],
+      "reasoning": "Candidate has Ideal experience level (7.4 years); Preferred skill: Fine Tuning; Based in target location (Noida/Pune/Delhi NCR). Concerns: Missing experience with Python."
+    }
+  }
+]
