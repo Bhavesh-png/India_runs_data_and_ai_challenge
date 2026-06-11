@@ -104,3 +104,34 @@ npm run dev
 ```
 
 Open the local URL displayed (e.g. `http://localhost:5173`) in your browser to view the interactive recruiter dashboard.
+
+---
+
+## Pushing to GitHub
+
+Since this project has been initialized with a local Git repository, follow these steps to push it to your GitHub account:
+
+### 1. Create a Repository on GitHub
+Go to [github.com](https://github.com) and create a new repository. **Do not** initialize it with a README, `.gitignore`, or license (as we already have them).
+
+### 2. Add Remote and Push
+Run the following commands in your terminal (make sure you are in the project root folder `India_runs_data_and_ai_challenge`):
+
+```bash
+# Rename default branch to main
+git branch -M main
+
+# Add your GitHub repository remote URL
+git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+
+# Push your code to GitHub
+git push -u origin main
+```
+
+### Note on Ignored Files
+The following files are ignored in `.gitignore` to stay within GitHub's **100 MB** file size limit:
+- `candidates.jsonl` (~487 MB)
+- `data/candidate_embeddings.npy` (~153.6 MB)
+- `.venv/` (Python virtual environment)
+- `node_modules/` (Node dependencies for backend/frontend)
+
